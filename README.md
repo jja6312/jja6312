@@ -13,7 +13,7 @@
 <b>따라서 노션 API를 활용해, 노션에 정리한 학습 기록을 블로그에 연동되도록 개발했습니다. 매일 학습을 기록중이며, 공부하는 내용을 적용해 계속 발전시키고 있습니다.</b>
 
 
-- 배포 사이트 : [개인블로그 바로가기]([https://imhere.im](http://law10000hours.com.s3-website.ap-northeast-2.amazonaws.com/)) <br> 프론트엔드, 백엔드, 배포 모두를 담당했습니다. <br> 
+- 배포 사이트 : [개인블로그 바로가기](http://law10000hours.com.s3-website.ap-northeast-2.amazonaws.com/) <br> 프론트엔드, 백엔드, 배포 모두를 담당했습니다. <br> 
 
 - 리포지토리 : [개인블로그 레포지토리 바로가기]([https://github.com/binary-ho/imhere-server](http://law10000hours.com.s3-website.ap-northeast-2.amazonaws.com/))
 - <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=zustand&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white" />
