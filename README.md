@@ -1,5 +1,5 @@
 # 안녕하세요 정지안입니다!👋
-#현재 작성중인 상태이므로, 너른 양해 부탁드립니다.
+# 현재 작성중인 상태이므로, 너른 양해 부탁드립니다.<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jja6312)](https://solved.ac/jja6312/)<br>
 
 ## 프로젝트
