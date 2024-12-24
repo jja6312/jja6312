@@ -17,7 +17,9 @@ IT의 다양한 분야에 관심이 많고 DevOps 엔지니어가 되기 위해 
 <br>
 <p style="font-size: 14px;">
 음성 혹은 텍스트를 통해 할 일을 입력하면, 주간 계획을 AI로 제안받는 서비스  
-- 리포지토리: [AI 일정 관리 플래너 리포지토리 바로가기](https://github.com/jja6312/LuckyWeeky_server)
+<br>  
+리포지토리:  
+[AI 일정 관리 플래너 리포지토리 바로가기](https://github.com/jja6312/LuckyWeeky_server)
 </p>
 </details>
 
@@ -26,8 +28,11 @@ IT의 다양한 분야에 관심이 많고 DevOps 엔지니어가 되기 위해 
 <br>
 <p style="font-size: 14px;">
 농협생명 사원 15명 대상, 걸음수/혈당 데이터를 통해 건강 등급을 분류하고, 등급에 맞는 교육 자료를 송/수신하는 사이트  
-- 프론트엔드, 백엔드, 배포 모두를 담당했습니다.  
-- 리포지토리: [당뇨 관리 리포트 리포지토리 바로가기](https://github.com/jja6312/health_care-Insulin_management-)
+<br>  
+프론트엔드, 백엔드, 배포 모두를 담당했습니다.  
+<br>  
+리포지토리:  
+[당뇨 관리 리포트 리포지토리 바로가기](https://github.com/jja6312/health_care-Insulin_management-)
 </p>
 </details>
 
@@ -36,8 +41,12 @@ IT의 다양한 분야에 관심이 많고 DevOps 엔지니어가 되기 위해 
 <br>
 <p style="font-size: 14px;">
 기술 스택별 학습 시간을 기록하고, 노션 API를 사용해 개발일지를 에디터 없이 쉽게 작성하는 개발 블로그  
-- 배포 사이트: [개인 블로그 바로가기](http://law10000hours.com.s3-website.ap-northeast-2.amazonaws.com/)  
-- 리포지토리: [개인 블로그 리포지토리 바로가기](https://github.com/jja6312/blog)
+<br>  
+배포 사이트:  
+[개인 블로그 바로가기](http://law10000hours.com.s3-website.ap-northeast-2.amazonaws.com/)  
+<br>  
+리포지토리:  
+[개인 블로그 리포지토리 바로가기](https://github.com/jja6312/blog)
 </p>
 </details>
 
@@ -53,3 +62,5 @@ IT의 다양한 분야에 관심이 많고 DevOps 엔지니어가 되기 위해 
 | **🌐 Infra**     | ![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) |
 | **📈 APM**       | ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apache-jmeter&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
 | **🔧 기타**      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+
+---
