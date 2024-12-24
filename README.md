@@ -6,7 +6,7 @@
 
 IT의 다양한 분야에 관심이 많고 DevOps 엔지니어가 되기 위해 클라우드와 백엔드에 집중하고 있습니다.
 
-**Education & Growth Plan for a DevOps Engineer** : [이미지](https://github.com/user-attachments/assets/6ead791c-850f-47e0-ae6b-1b3106f1eddd)
+<span style="color:red">**Education & Growth Plan for a DevOps Engineer**</span> : [이미지](https://github.com/user-attachments/assets/6ead791c-850f-47e0-ae6b-1b3106f1eddd)
 
 **개발 블로그** : [개인 블로그 바로가기](http://law10000hours.com.s3-website.ap-northeast-2.amazonaws.com/)
 
