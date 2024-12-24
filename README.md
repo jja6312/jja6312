@@ -1,13 +1,16 @@
-안녕하세요 정지안입니다.
+<b>안녕하세요 정지안입니다.</b>
+<br> 
 만드는 것을 좋아해 기계과 학생 시절, 발명동아리 및 3D프린팅 창업 등 다양한 경험을 하였습니다.
+<br> 
 개발은 발명과도 같아, 컴퓨터를 통해 무언갈 만들 수 있다는 점에서 매력적이라 생각합니다.
+<br> 
 IT의 다양한 분야에 관심이 많지만, DevOps 엔지니어가 되기 위해 클라우드와 백엔드에 집중하고 있습니다.
+<br> 
 
 <details>
 <summary> 
   <b>로드맵</b> 
 </summary>
-
 <br> 
 ![roadmap](https://github.com/user-attachments/assets/6ead791c-850f-47e0-ae6b-1b3106f1eddd)
 
