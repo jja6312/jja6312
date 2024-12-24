@@ -4,17 +4,12 @@
 <br> 
 개발은 발명과도 같아, 컴퓨터를 통해 무언갈 만들 수 있다는 점에서 매력적이라 생각합니다.
 <br> 
-IT의 다양한 분야에 관심이 많지만, DevOps 엔지니어가 되기 위해 클라우드와 백엔드에 집중하고 있습니다.
+IT의 다양한 분야에 관심이 많고 DevOps 엔지니어가 되기 위해 클라우드와 백엔드에 집중하고 있습니다.
 <br> 
 
-<details>
-<summary> 
-  <b>로드맵</b> 
-</summary>
+<b>Education & Plan for DevOps Engineer</b> : [이미지](https://github.com/user-attachments/assets/6ead791c-850f-47e0-ae6b-1b3106f1eddd)
 <br> 
-![roadmap](https://github.com/user-attachments/assets/6ead791c-850f-47e0-ae6b-1b3106f1eddd)
-
-</details>
+<b>개발 블로그</b> : [개인 블로그 바로가기](http://law10000hours.com.s3-website.ap-northeast-2.amazonaws.com/)
 -----------------------------
 ## 프로젝트
 
