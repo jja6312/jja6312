@@ -9,7 +9,7 @@ IT의 다양한 분야에 관심이 많고 DevOps 엔지니어가 되기 위해 
 
 ---
 
-### 💻프로젝트
+### 💻 프로젝트
 
 <details>
 <summary><b>1. AI 일정 관리 플래너</b></summary>
@@ -43,19 +43,19 @@ IT의 다양한 분야에 관심이 많고 DevOps 엔지니어가 되기 위해 
 
 ---
 
-### 🖱기술 스택
+### 🖱 기술 스택
 
 | **Category** | **Tech Stack**                                                                                                                                                                             |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **✨ Frontend**  | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square) |
-| **🚀 Backend**   | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat-square) |
+| **🚀 Backend**   | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat-square) |
 | **📊 Database**  | ![MyBatis](https://img.shields.io/badge/MyBatis-B7178C?style=flat-square&logo=apache-mybatis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **🌐 Infra**     | ![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) |
+| **🌐 Infra**     | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) |
 | **📈 APM**       | ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apache-jmeter&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
 | **🔧 기타**      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 ---
 
-### ⌨백준
+### ⌨ 백준
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jja6312)](https://solved.ac/jja6312/)
