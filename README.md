@@ -10,7 +10,8 @@
 
 ---
 
-- **학습 현황 & 성장 계획**: [이미지 바로가기](https://github.com/user-attachments/assets/a1e97de6-bff9-4e91-8d4d-96f7fe5c58a8)  
+- **학습 현황 & 성장 계획**: [이미지 바로가기](https://github.com/user-attachments/assets/a1e97de6-bff9-4e91-8d4d-96f7fe5c58a8)
+- ![plan](https://github.com/user-attachments/assets/44836208-c184-47d9-b3b3-f0a65750be1a)
 - **개발 블로그**: [개인 블로그 바로가기](http://law10000hours.com.s3-website.ap-northeast-2.amazonaws.com/)  
 
 ---
