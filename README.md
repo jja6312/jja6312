@@ -13,8 +13,8 @@
 ### 💻 프로젝트
 
 <details>
-<summary><b>1. AI 일정 관리 플래너</b></summary>
-
+<summary><b>1. AI 일정 관리 플래너[팀, PL]</b></summary>
+> 기간 : (3주) 2024.11.04~11.26
 > 음성 혹은 텍스트를 통해 할 일을 입력하면, 주간 계획을 AI로 제안받는 서비스
 ![ss1](https://github.com/user-attachments/assets/b669d9df-4dd0-48f1-a033-831cf8795eee)
 리포지토리:  
@@ -23,8 +23,9 @@
 </details>
 
 <details>
-<summary><b>2. (외주) 농협생명 사원 대상 당뇨 관리 리포트</b></summary>
-
+<summary><b>2. (외주) 농협생명 사원 대상 당뇨 관리 리포트[개인]</b></summary>
+> 개발 기간 : (6주) 2024.05.12 ~ 06.23
+> 유지 보수 : (3달) 2024.06.24 ~ 09.15
 > 농협생명 사원 15명 대상, 걸음수/혈당 데이터를 통해 건강 등급을 분류하고, 등급에 맞는 교육 자료를 송/수신하는 사이트  
 프론트엔드, 백엔드, 배포 모두를 담당했습니다.  
 ![ss2](https://github.com/user-attachments/assets/9dd2046d-4fd7-4eb6-87c5-64786c5bd391)
@@ -34,8 +35,8 @@
 </details>
 
 <details>
-<summary><b>3. 노션 API를 활용한 개발 블로그</b></summary>
-
+<summary><b>3. 노션 API를 활용한 개발 블로그[개인]</b></summary>
+> 기간 : 2024.01.12~상시 개발
 > 기술 스택별 학습 시간을 기록하고, 노션 API를 사용해 개발일지를 에디터 없이 쉽게 작성하는 개발 블로그  
 ![ss3](https://github.com/user-attachments/assets/403c656f-9ba6-4940-92b4-037c340fd85c)
 배포 사이트:  
