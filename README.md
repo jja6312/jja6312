@@ -11,8 +11,10 @@
 ---
 
 - **개발 블로그**: [블로그 바로가기](http://law10000hours.com.s3-website.ap-northeast-2.amazonaws.com/)  
-- **학습 현황 & 성장 계획**  
+<details>
+<summary><b>학습 현황 & 성장 계획</b></summary>
   ![학습 계획](https://github.com/user-attachments/assets/44836208-c184-47d9-b3b3-f0a65750be1a)  
+</details>
 
 ---
 
