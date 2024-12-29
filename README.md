@@ -9,10 +9,9 @@
 - Azure(AZ-900)
 
 ---
-
-- **학습 현황 & 성장 계획**: [이미지 바로가기](https://github.com/user-attachments/assets/a1e97de6-bff9-4e91-8d4d-96f7fe5c58a8)
-- ![plan](https://github.com/user-attachments/assets/44836208-c184-47d9-b3b3-f0a65750be1a)
 - **개발 블로그**: [개인 블로그 바로가기](http://law10000hours.com.s3-website.ap-northeast-2.amazonaws.com/)  
+- **학습 현황 & 성장 계획**
+![plan](https://github.com/user-attachments/assets/44836208-c184-47d9-b3b3-f0a65750be1a)
 
 ---
 
@@ -22,7 +21,7 @@
 <summary><b>1. AI 일정 관리 플래너[팀, PL]</b></summary>
 > 기간 : (3주) 2024.11.04~11.26
 > 음성 혹은 텍스트를 통해 할 일을 입력하면, 주간 계획을 AI로 제안받는 서비스  
-![ss1](https://github.com/user-attachments/assets/b669d9df-4dd0-48f1-a033-831cf8795eee)
+> ![ss1](https://github.com/user-attachments/assets/b669d9df-4dd0-48f1-a033-831cf8795eee)
 리포지토리:  
 [AI 일정 관리 플래너 리포지토리 바로가기](https://github.com/jja6312/LuckyWeeky_server)
 
@@ -34,7 +33,7 @@
 > 유지 보수 : (3달) 2024.06.24 ~ 09.15
 > 농협생명 사원 15명 대상, 걸음수/혈당 데이터를 통해 건강 등급을 분류하고, 등급에 맞는 교육 자료를 송/수신하는 사이트  
 프론트엔드, 백엔드, 배포 모두를 담당했습니다.  
-![ss2](https://github.com/user-attachments/assets/9dd2046d-4fd7-4eb6-87c5-64786c5bd391)
+> ![ss2](https://github.com/user-attachments/assets/9dd2046d-4fd7-4eb6-87c5-64786c5bd391)
 리포지토리:  
 [당뇨 관리 리포트 리포지토리 바로가기](https://github.com/jja6312/health_care-Insulin_management-)
 
@@ -44,7 +43,7 @@
 <summary><b>3. 노션 API를 활용한 개발 블로그[개인]</b></summary>
 > 기간 : 2024.01.12~상시 개발
 > 기술 스택별 학습 시간을 기록하고, 노션 API를 사용해 개발일지를 에디터 없이 쉽게 작성하는 개발 블로그  
-![ss3](https://github.com/user-attachments/assets/403c656f-9ba6-4940-92b4-037c340fd85c)
+> ![ss3](https://github.com/user-attachments/assets/403c656f-9ba6-4940-92b4-037c340fd85c)
 배포 사이트:  
 [개인 블로그 바로가기](http://law10000hours.com.s3-website.ap-northeast-2.amazonaws.com/)  
 리포지토리:  
