@@ -1,7 +1,12 @@
 **안녕하세요, DevOps 엔지니어를 목표하는 정지안입니다.**  
 보안, 운영체제, DB 등 다양한 영역에 도전하고 있습니다. 
 
-2025 goal : 정보보안기사, 네관사 2급, Linux(RHCSA, RHCE, RHCA, 리눅스마스터1급) AWS(Solution Architect Professional, Security-Specialty), Azure(AZ-900)
+2025 GOAL😁 : 
+- 정보보안기사
+- 네관사 2급
+- Linux(RHCSA, RHCE, RHCA, 리눅스마스터1급)
+- AWS(Solution Architect Professional, Security-Specialty)
+- Azure(AZ-900)
 
 ---
 
