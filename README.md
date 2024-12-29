@@ -20,7 +20,7 @@
 <details>
 <summary><b>1. AI 일정 관리 플래너[팀, PL]</b></summary>
 > 기간 : (3주) 2024.11.04~11.26
-> 음성 혹은 텍스트를 통해 할 일을 입력하면, 주간 계획을 AI로 제안받는 서비스
+> 음성 혹은 텍스트를 통해 할 일을 입력하면, 주간 계획을 AI로 제안받는 서비스  
 ![ss1](https://github.com/user-attachments/assets/b669d9df-4dd0-48f1-a033-831cf8795eee)
 리포지토리:  
 [AI 일정 관리 플래너 리포지토리 바로가기](https://github.com/jja6312/LuckyWeeky_server)
