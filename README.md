@@ -1,4 +1,4 @@
-**안녕하세요, DevOps 엔지니어를 목표로 하고 있는 정지안입니다.**  
+**안녕하세요, DevOps 엔지니어를 목표로 하고 있는 [!정지안](http://law10000hours.com.s3-website.ap-northeast-2.amazonaws.com/)입니다.**  
 보안, 운영체제, DB 등 다양한 IT 영역에서 경험을 쌓으며 꾸준히 성장하고 있습니다.
 
 ### **2025 목표** 😁  
@@ -9,11 +9,9 @@
 - **Azure**: AZ-900  
 
 ---
-
-- **개발 블로그**: [블로그 바로가기](http://law10000hours.com.s3-website.ap-northeast-2.amazonaws.com/)  
 <details>
 <summary><b>학습 현황 & 성장 계획</b></summary>
-<img src="https://github.com/user-attachments/assets/44836208-c184-47d9-b3b3-f0a65750be1a" alt="학습 계획" width="300"/>
+<img src="https://github.com/user-attachments/assets/44836208-c184-47d9-b3b3-f0a65750be1a" alt="학습 계획" width="600"/>
 </details>
 
 ---
