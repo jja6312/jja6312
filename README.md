@@ -1,9 +1,11 @@
 **안녕하세요, DevOps 엔지니어를 목표하는 정지안입니다.**  
 보안, 운영체제, DB 등 다양한 영역에 도전하고 있습니다. 
 
+2025 goal : 정보보안기사, 네관사 2급, Linux(RHCSA, RHCE, RHCA, 리눅스마스터1급) AWS(Solution Architect Professional, Security-Specialty), Azure(AZ-900)
+
 ---
 
-- **학습 현황 & 성장 계획**: [이미지 바로가기](https://github.com/user-attachments/assets/6ead791c-850f-47e0-ae6b-1b3106f1eddd)  
+- **학습 현황 & 성장 계획**: [이미지 바로가기](https://github.com/user-attachments/assets/a1e97de6-bff9-4e91-8d4d-96f7fe5c58a8)  
 - **개발 블로그**: [개인 블로그 바로가기](http://law10000hours.com.s3-website.ap-northeast-2.amazonaws.com/)  
 
 ---
