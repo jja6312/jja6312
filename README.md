@@ -3,7 +3,7 @@
 
 2025 GOAL😁 : 
 - 정보보안기사
-- 네관사 2급
+- 네트워크관리사 2급
 - Linux(RHCSA, RHCE, RHCA, 리눅스마스터1급)
 - AWS(Solution Architect Professional, Security-Specialty)
 - Azure(AZ-900)
