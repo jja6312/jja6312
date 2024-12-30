@@ -2,11 +2,11 @@
 보안, 운영체제, DB 등 다양한 IT 영역에서 경험을 쌓으며 꾸준히 성장하고 있습니다.
 
 ### **🐍 2025 목표**  
-- **정보보안기사**  
-- **네트워크관리사 2급**  
-- **Linux**: RHCSA, RHCE, RHCA, 리눅스마스터 1급  
-- **AWS**: Solution Architect Professional, Security-Specialty  
-- **Azure**: AZ-900  
+🔲 **정보보안기사**  
+🔲 **네트워크관리사 2급**  
+🔲 **Linux**: RHCSA, RHCE, RHCA, 리눅스마스터 1급  
+🔲 **AWS**: Solution Architect Professional, Security-Specialty  
+🔲 **Azure**: AZ-900  
 
 ---
 <details>
