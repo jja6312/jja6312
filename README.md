@@ -24,7 +24,6 @@
 - **기간**: 2024.11.04 ~ 2024.11.26 (3주)  
 - **내용**: 음성 또는 텍스트로 할 일을 입력하면 AI가 주간 계획을 자동으로 제안하는 서비스  
   ![AI 일정 관리 플래너 스크린샷](https://github.com/user-attachments/assets/b669d9df-4dd0-48f1-a033-831cf8795eee)  
-
 - **리포지토리**: [AI 일정 관리 플래너 바로가기](https://github.com/jja6312/LuckyWeeky_server)  
 
 </details>
@@ -52,7 +51,6 @@
   - 기술 스택별 학습 시간을 기록  
   - 노션 API를 통해 에디터 없이 간단히 개발일지 작성  
   ![개발 블로그 스크린샷](https://github.com/user-attachments/assets/403c656f-9ba6-4940-92b4-037c340fd85c)  
-
 - **배포 사이트**: [개인 블로그 바로가기](http://law10000hours.com.s3-website.ap-northeast-2.amazonaws.com/)  
 - **리포지토리**: [개발 블로그 바로가기](https://github.com/jja6312/blog)  
 
