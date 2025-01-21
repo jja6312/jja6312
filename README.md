@@ -3,8 +3,8 @@
 
 ### **🐍 2025 목표**  
 🔲 **정보보안기사**  
-🔲 **네트워크관리사 2급**  
-🔲 **Linux**: RHCSA, RHCE, RHCA, 리눅스마스터 1급  
+🔲 **네트워크관리사 2급**  (1/21 접수완료. 2/23 필기시험 예정)
+🔲 **Linux**: RHCSA, RHCE, RHCA, 리눅스마스터 1급(1/20 접수완료. 3/8 필기시험 예정)
 🔲 **AWS**: Solution Architect Professional, Security-Specialty  
 🔲 **Azure**: AZ-900  
 
