@@ -11,9 +11,8 @@
 ---
 <details>
 <summary><b>🤓학습 현황 & 🔺성장 계획</b></summary>
-<img src="https://github.com/user-attachments/assets/44836208-c184-47d9-b3b3-f0a65750be1a" alt="학습 계획" width="600"/>
+<img src="https://github.com/user-attachments/assets/5baa1403-dbee-40ab-bc0d-68c2566bcdbe" alt="학습 계획" width="600"/>
 </details>
-
 ---
 
 ### 💻 **프로젝트**
