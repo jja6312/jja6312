@@ -19,7 +19,7 @@
 ---
 <details>
 <summary><b>🤓학습 현황 & 🔺성장 계획</b></summary>
-<img src="https://github.com/user-attachments/assets/0de70caa-70b0-40f3-a268-febf334fde1d" alt="학습 계획" width="600"/>
+<img src="https://github.com/user-attachments/assets/72e11ed1-a695-4aa6-845b-1887d285ff7e" alt="학습 계획" width="600"/>
 </details>
 ---
 
