@@ -3,11 +3,14 @@
 
 ### **🐍 2025 목표**  
 🔲 **정보보안기사**  
-🔲 **네트워크관리사 2급**(✅필기,🔲실기(3/30시험))  
-🔲 **Linux**: RHCSA, RHCE, RHCA, 리눅스마스터 1급(3/8 필기시험)  
+🔲 **네트워크관리사 2급**(✅필기,🔲실기(3/30))  
+🔲 **Linux** 리눅스마스터 1급(🔲필기(3/8),🔲실기)  
+🔲 **Linux** RHCSA  
+🔲 **Linux** RHCA  
+🔲 **Linux** RHCE  
 🔲 **AWS Solution Architect Professional**  
 🔲 **AWS Security-Specialty**  
-🔲 **Azure AZ-900(3/1 시험)  
+✅ **Azure AZ-900[complete]**  
 ✅ **Oracle Cloud Infrastructure Certified Foundations Associate**  
 🔲 **Oracle Cloud Infrastructure Certified Architect Associate**  
 🔲 **Oracle Cloud Infrastructure Certified Architect Professional**  
