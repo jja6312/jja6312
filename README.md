@@ -2,8 +2,14 @@
 보안, 운영체제, DB 등 다양한 IT 영역에서 경험을 쌓으며 꾸준히 성장하고 있습니다.
 
 ### **🐍 2025 목표**  
+#### **Skill**  
+🔲 Linux(Intermediate level)  
+🔲 Kubernetess(Basic knowledge)  
+🔲 Terraform(Intermediate level)  
+🔲 Ansible(Basic knowledge)  
+#### **Certificate for IT foundation**  
 🔲 **정보보안기사**  
-🔲 **네트워크관리사 2급**(✅필기,🔲실기(3/30))  
+🔲 **네트워크관리사 2급**(✅필기,🔲 실기(3/30))  
 🔲 **Linux** 리눅스마스터 1급(🔲필기(3/8),🔲실기)  
 🔲 **Linux** RHCSA  
 🔲 **Linux** RHCA  
@@ -15,6 +21,7 @@
 🔲 **Oracle Cloud Infrastructure Certified Architect Associate**  
 🔲 **Oracle Cloud Infrastructure Certified Architect Professional**  
 🔲 **빅데이터분석기사**  
+🔲 **Certified Kubernetes Administrator**  
 
 ---
 <details>
