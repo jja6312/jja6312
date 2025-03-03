@@ -9,7 +9,7 @@
 🔲 Ansible(Basic knowledge)  
   
 💎 **Certification Goals**  
-✅ **Azure AZ-900** ------------------------------------------------------------- 25.03.01  
+✅ **Azure AZ-900** -------------------------------------------------------------- 25.03.01  
 ✅ **Oracle Cloud Infrastructure Certified Foundations Associate** ---------- 25.02.16  
 🔲 **Oracle Cloud Infrastructure Certified Architect Associate**  
 🔲 **Oracle Cloud Infrastructure Certified Architect Professional**  
