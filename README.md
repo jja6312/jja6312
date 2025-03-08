@@ -2,13 +2,13 @@
 보안, 운영체제, DB 등 다양한 IT 영역에서 경험을 쌓으며 꾸준히 성장하고 있습니다.
 
 ### **🐍 2025 목표**  
-💎 **Engineering Goals**  
+💎 **2025 Engineering Goals**  
 🔲 Linux(Intermediate level)  
 🔲 Kubernetess(Basic knowledge)  
 🔲 Terraform(Intermediate level)  
 🔲 Ansible(Basic knowledge)  
   
-💎 **Certification Goals**  
+💎 **2025 Certification Goals**  
 ✅ **Azure AZ-900** -------------------------------------------------------------- 25.03.01  
 ✅ **Oracle Cloud Infrastructure Certified Foundations Associate** ---------- 25.02.16  
 🔲 **Oracle Cloud Infrastructure Certified Architect Associate**  
