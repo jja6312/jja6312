@@ -13,8 +13,8 @@
 ✅ **Oracle Cloud Infrastructure Certified Foundations Associate** ---------- 25.02.16  
 🔲 **Oracle Cloud Infrastructure Certified Architect Associate**  
 🔲 **Oracle Cloud Infrastructure Certified Architect Professional**  
-🔲 **Oracle APEX Cloud Developer Professional**  
-🔲 **Oracle AI Vector Search Professinal**  
+🔲 **Oracle APEX Cloud Developer Certified Professional**  
+🔲 **Oracle AI Vector Search Certified Professional**  
 🔲 **AWS Solution Architect Professional**  
 🔲 **AWS Security-Specialty**  
 🔲 **Certified Kubernetes Administrator**  
