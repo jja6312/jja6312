@@ -13,6 +13,8 @@
 ✅ **Oracle Cloud Infrastructure Certified Foundations Associate** ---------- 25.02.16  
 🔲 **Oracle Cloud Infrastructure Certified Architect Associate**  
 🔲 **Oracle Cloud Infrastructure Certified Architect Professional**  
+🔲 **Oracle APEX Cloud Developer Professional**  
+🔲 **Oracle AI Vector Search Professinal**  
 🔲 **AWS Solution Architect Professional**  
 🔲 **AWS Security-Specialty**  
 🔲 **Certified Kubernetes Administrator**  
@@ -20,7 +22,6 @@
 ✅ **Linux** 리눅스마스터 2급 ---------------------------------------------------- 25.01.03  
 🔲 **Linux** 리눅스마스터 1급(✅필기,🔲실기)  
 🔲 **Linux** RHCSA  
-🔲 **Linux** RHCA  
 🔲 **Linux** RHCE  
 🔲 **빅데이터분석기사**  
 🔲 **정보보안기사**  
