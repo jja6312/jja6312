@@ -7,6 +7,7 @@
 🔲 Kubernetess(Basic knowledge)  
 🔲 Terraform(Intermediate level)  
 🔲 Ansible(Basic knowledge)  
+  
 💎 **2025 Certification Goals**  
 ✅ **Azure AZ-900** -------------------------------------------------------------- 25.03.01  
 ✅ **Oracle Cloud Infrastructure Certified Foundations Associate** ---------- 25.02.16  
