@@ -30,7 +30,7 @@
 <details>
 <summary><b>🤓학습 현황 & 🔺성장 계획</b></summary>
 <img src="https://github.com/user-attachments/assets/48fc10ad-9379-4dfc-9d95-af7b1239c713" alt="학습 현황" width="1400"/>  
-<img src="https://github.com/user-attachments/assets/72e11ed1-a695-4aa6-845b-1887d285ff7e" alt="성장 계획" width="1400"/>
+<img src="https://github.com/user-attachments/assets/72e11ed1-a695-4aa6-845b-1887d285ff7e" alt="성장 계획" width="600"/>
 <img src="https://github.com/user-attachments/assets/90cd6252-f1e3-425d-a327-e4d90f5b1aa6" alt="cncf" width="1400"/>
 
 </details>
