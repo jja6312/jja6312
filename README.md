@@ -9,18 +9,18 @@
 🔲 Ansible(Basic knowledge)  
   
 💎 **2025 Certification Goals**  
-✅ **Azure AZ-900** -------------------------------------------------------------- 25.03.01  
+✅ **Linux** 리눅스마스터 2급 ---------------------------------------------------- 25.01.03  
 ✅ **Oracle Cloud Infrastructure Certified Foundations Associate** ---------- 25.02.16  
+✅ **Azure AZ-900** -------------------------------------------------------------- 25.03.01  
+✅ **네트워크관리사 2급** -------------------------------------------------------- 25.04.08  
+🔲 **Oracle AI Vector Search Certified Professional**  
 🔲 **Oracle Cloud Infrastructure Certified Architect Associate**  
 🔲 **Oracle Cloud Infrastructure Certified Architect Professional**  
 🔲 **Oracle APEX Cloud Developer Certified Professional**  
-🔲 **Oracle AI Vector Search Certified Professional**  
 🔲 **AWS Solution Architect Professional**  
 🔲 **AWS Security-Specialty**  
 🔲 **Certified Kubernetes Administrator**  
-✅ **네트워크관리사 2급** -------------------------------------------------------- 25.04.08  
-✅ **Linux** 리눅스마스터 2급 ---------------------------------------------------- 25.01.03  
-🔲 **Linux** 리눅스마스터 1급
+🔲 **Linux** 리눅스마스터 1급  
 🔲 **Linux** RHCSA  
 🔲 **Linux** RHCE  
 🔲 **빅데이터분석기사**  
