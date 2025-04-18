@@ -13,7 +13,7 @@
 ✅ **Oracle Cloud Infrastructure Certified Foundations Associate** ---------- 25.02.16  
 ✅ **Azure AZ-900** -------------------------------------------------------------- 25.03.01  
 ✅ **네트워크관리사 2급** --------------------------------------------------------- 25.04.08  
-✅ **Oracle AI Vector Search Certified Professional**  --------------------------- 25.04.18  
+✅ **Oracle AI Vector Search Certified Professional**  -------------------------- 25.04.18  
 🔲 **Oracle Cloud Infrastructure Certified Architect Associate**  
 🔲 **Oracle Cloud Infrastructure Certified Architect Professional**  
 🔲 **Oracle APEX Cloud Developer Certified Professional**  
