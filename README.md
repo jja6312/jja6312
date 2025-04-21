@@ -17,6 +17,7 @@
 🔲 **Oracle Cloud Infrastructure Certified Architect Associate**  
 🔲 **Oracle Cloud Infrastructure Certified Architect Professional**  
 🔲 **Oracle APEX Cloud Developer Certified Professional**  
+🔲 **CCNA**  
 🔲 **AWS Solution Architect Professional**  
 🔲 **AWS Security-Specialty**  
 🔲 **Certified Kubernetes Administrator**  
