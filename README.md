@@ -3,6 +3,7 @@
 
 ### **🐍 2025 목표**  
 💎 **2025 Engineering Goals**  
+🔲 Oracle Cloud MBP(70 Assignments)  
 🔲 Linux(Intermediate level)  
 🔲 Kubernetess(Basic knowledge)  
 🔲 Terraform(Intermediate level)  
