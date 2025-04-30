@@ -32,7 +32,7 @@
 <details>
 <summary><b>🤓학습 현황 & 🔺성장 계획</b></summary>
 <img src="https://github.com/user-attachments/assets/6c74ef06-6bd0-490b-8457-0bbaf8813d34" alt="학습 현황" width="1400"/>  
-<img src="https://github.com/user-attachments/assets/72e11ed1-a695-4aa6-845b-1887d285ff7e" alt="성장 계획" width="600"/>
+<img src="https://github.com/user-attachments/assets/a45ce0b8-11fb-4319-acd4-d5dd02623d62" alt="성장 계획" width="600"/>
 <img src="https://github.com/user-attachments/assets/90cd6252-f1e3-425d-a327-e4d90f5b1aa6" alt="cncf" width="1400"/>
 </details>
 ---
