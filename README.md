@@ -8,6 +8,7 @@
 🔲 Kubernetess(Basic knowledge)  
 🔲 Terraform(Intermediate level)  
 🔲 Ansible(Basic knowledge)  
+
   
 💎 **2025 Certification Goals**  
 ✅ **Linux** 리눅스마스터 2급 ----------------------------------------------------- 25.01.03  
