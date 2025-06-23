@@ -19,7 +19,8 @@
 🔲 **CCNA**  
 🔲 **Oracle Cloud Infrastructure Certified Architect Associate**  
 🔲 **Oracle Cloud Infrastructure Certified Architect Professional**  
-🔲 **Oracle APEX Cloud Developer Certified Professional**  
+🔲 **Google Cloud Platform Associate Cloud Engineer**  
+🔲 **Google Cloud Platform Professional Cloud Architect**  
 🔲 **AWS Solution Architect Professional**  
 🔲 **AWS Security-Specialty**  
 🔲 **Certified Kubernetes Administrator**  
