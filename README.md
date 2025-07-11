@@ -16,7 +16,7 @@
 ✅ **Azure AZ-900** -------------------------------------------------------------- 25.03.01  
 ✅ **네트워크관리사 2급** --------------------------------------------------------- 25.04.08  
 ✅ **Oracle AI Vector Search Certified Professional**  -------------------------- 25.04.18  
-✅ **Oracle Cloud Infrastructure Certified Architect Associate**  ----------------25.07.11
+✅ **Oracle Cloud Infrastructure Certified Architect Associate**  ---------------25.07.11  
 🔲 **CCNA**  
 🔲 **Oracle Cloud Infrastructure Certified Architect Professional**  
 🔲 **Google Cloud Platform Associate Cloud Engineer**  
@@ -34,7 +34,7 @@
 <details>
 <summary><b>🤓학습 현황 & 🔺성장 계획</b></summary>
 <img src="https://github.com/user-attachments/assets/81d97f8b-53a2-4775-b8a3-060adc85c244" alt="학습 현황" width="1400"/>  
-<img src="https://github.com/user-attachments/assets/a45ce0b8-11fb-4319-acd4-d5dd02623d62" alt="성장 계획" width="600"/>
+<img src="https://github.com/user-attachments/assets/09f2500e-7ddb-41e2-95a2-f17fce12de9e" alt="성장 계획" width="600"/>
 <img src="https://github.com/user-attachments/assets/90cd6252-f1e3-425d-a327-e4d90f5b1aa6" alt="cncf" width="1400"/>
 </details>
 ---
