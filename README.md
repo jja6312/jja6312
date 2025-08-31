@@ -3,8 +3,10 @@
 
 ### **🐍 2025 목표**  
 💎 **2025 Engineering Goals**  
+✅ OpenStack(Basic knowledge)  
+✅ Python(Basic knowledge)  
 🔲 Oracle Cloud MBP(70 Assignments) => 진행중  
-🔲 Linux(Intermediate level) => 리눅스중급 9월 주말반 교육 대기중  
+🔲 Linux(Intermediate level) => 진행중  
 🔲 Kubernetess(Basic knowledge)  
 🔲 Terraform(Intermediate level)  
 🔲 Ansible(Basic knowledge)  
