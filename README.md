@@ -7,7 +7,7 @@
 ✅ Python(Basic knowledge)  
 🔲 Oracle Cloud MBP(70 Assignments) => 진행중  
 🔲 Linux(Intermediate level) => 진행중  
-🔲 Kubernetess(Basic knowledge)  
+✅ Kubernetess(Basic knowledge)  
 🔲 Terraform(Intermediate level)  
 🔲 Ansible(Basic knowledge)  
 
