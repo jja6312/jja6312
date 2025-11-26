@@ -19,6 +19,8 @@
 ✅ **네트워크관리사 2급** --------------------------------------------------------- 25.04.08  
 ✅ **Oracle AI Vector Search Certified Professional**  -------------------------- 25.04.18  
 ✅ **Oracle Cloud Infrastructure Certified Architect Associate**  ---------------25.07.11  
+✅ **Oracle Fusion AI Agent Studio Foundations Associate**  ---------------25.07.31  
+✅ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**  ---------------25.11.26  
 🔲 **CCNA**  
 🔲 **Oracle Cloud Infrastructure Certified Architect Professional**  
 🔲 **Google Cloud Platform Associate Cloud Engineer**  
