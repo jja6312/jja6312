@@ -21,6 +21,7 @@
 ✅ **Oracle Cloud Infrastructure Certified Architect Associate**  ---------------25.07.11  
 ✅ **Oracle Fusion AI Agent Studio Foundations Associate**  ------------------25.07.31  
 ✅ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**  --25.11.26  
+✅ **Oracle Cloud Infrastructure Certified Architect Professional**  ---------------25.12.19  
 🔲 **CCNA**  
 🔲 **Oracle Cloud Infrastructure Certified Architect Professional**  
 🔲 **Google Cloud Platform Associate Cloud Engineer**  
