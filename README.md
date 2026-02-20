@@ -2,28 +2,33 @@
 보안, 운영체제, DB 등 다양한 IT 영역에서 경험을 쌓으며 꾸준히 성장하고 있습니다.
   
 <details>
-<summary><b>**🐍 1년차 목표**  </b></summary>
-💎 **2025 Engineering Goals**  
-✅ OpenStack(Basic knowledge)  
-✅ Python(Basic knowledge)  
-🔲 Oracle Cloud MBP(70 Assignments) => 진행중  
-🔲 Linux(Intermediate level) => 진행중  
-✅ Kubernetess(Basic knowledge)  
-🔲 Terraform(Intermediate level)  
-🔲 Ansible(Basic knowledge)  
+<summary><b>🐍 1년차 목표</b></summary>
+
+<p>💎 2025 Engineering Goals</p>
+
+<p>✅ OpenStack (Basic knowledge)</p>
+<p>✅ Python (Basic knowledge)</p>
+<p>🔲 Oracle Cloud MBP (70 Assignments) => 진행중</p>
+<p>🔲 Linux (Intermediate level) => 진행중</p>
+<p>✅ Kubernetes (Basic knowledge)</p>
+<p>🔲 Terraform (Intermediate level)</p>
+<p>🔲 Ansible (Basic knowledge)</p>
+
 </details>
 
 <details>
-<summary><b>💎 **1년차 Certification Goals**</b></summary>
-✅ **Linux** 리눅스마스터 2급 ----------------------------------------------------- 25.01.03  
-✅ **Oracle Cloud Infrastructure Certified Foundations Associate** ---------- 25.02.16  
-✅ **Azure AZ-900** -------------------------------------------------------------- 25.03.01  
-✅ **네트워크관리사 2급** --------------------------------------------------------- 25.04.08  
-✅ **Oracle AI Vector Search Certified Professional**  -------------------------- 25.04.18  
-✅ **Oracle Cloud Infrastructure Certified Architect Associate**  ---------------25.07.11  
-✅ **Oracle Fusion AI Agent Studio Foundations Associate**  ------------------25.07.31  
-✅ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**  --25.11.26  
-✅ **Oracle Cloud Infrastructure Certified Architect Professional**  ------------25.12.19  
+<summary><b>💎 1년차 Certification Goals</b></summary>
+
+<p>✅ <b>Linux</b> 리눅스마스터 2급 ----------------------------------------------------- 25.01.03</p>
+<p>✅ <b>Oracle Cloud Infrastructure Certified Foundations Associate</b> ---------- 25.02.16</p>
+<p>✅ <b>Azure AZ-900</b> -------------------------------------------------------------- 25.03.01</p>
+<p>✅ <b>네트워크관리사 2급</b> --------------------------------------------------------- 25.04.08</p>
+<p>✅ <b>Oracle AI Vector Search Certified Professional</b> -------------------------- 25.04.18</p>
+<p>✅ <b>Oracle Cloud Infrastructure Certified Architect Associate</b> --------------- 25.07.11</p>
+<p>✅ <b>Oracle Fusion AI Agent Studio Foundations Associate</b> ------------------ 25.07.31</p>
+<p>✅ <b>Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</b> -- 25.11.26</p>
+<p>✅ <b>Oracle Cloud Infrastructure Certified Architect Professional</b> ------------ 25.12.19</p>
+
 </details>
   
 💎 **2년차 Certification Goals**  
