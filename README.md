@@ -8,10 +8,10 @@
 
 <p>✅ OpenStack (Basic knowledge)</p>
 <p>✅ Python (Basic knowledge)</p>
-<p>🔲 Oracle Cloud MBP (70 Assignments) => 진행중</p>
-<p>🔲 Linux (Intermediate level) => 진행중</p>
+<p>✅ Oracle Cloud MBP (70 Assignments)</p>
+<p>✅ Linux (Basic knowledge) => 진행중</p>
 <p>✅ Kubernetes (Basic knowledge)</p>
-<p>🔲 Terraform (Intermediate level)</p>
+<p>✅ Terraform (Basic knowledge)</p>
 <p>🔲 Ansible (Basic knowledge)</p>
 
 </details>
