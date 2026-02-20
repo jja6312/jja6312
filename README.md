@@ -1,7 +1,8 @@
 **안녕하세요, 클라우드 아키텍트를 목표하는 [정지안](http://law10000hours.com.s3-website.ap-northeast-2.amazonaws.com/)입니다.**  
 보안, 운영체제, DB 등 다양한 IT 영역에서 경험을 쌓으며 꾸준히 성장하고 있습니다.
-
-### **🐍 2025 목표**  
+  
+<details>
+<summary><b>**🐍 1년차 목표**  </b></summary>
 💎 **2025 Engineering Goals**  
 ✅ OpenStack(Basic knowledge)  
 ✅ Python(Basic knowledge)  
@@ -10,9 +11,10 @@
 ✅ Kubernetess(Basic knowledge)  
 🔲 Terraform(Intermediate level)  
 🔲 Ansible(Basic knowledge)  
+</details>
 
-  
-💎 **2025 Certification Goals**  
+<details>
+<summary><b>💎 **1년차 Certification Goals**</b></summary>
 ✅ **Linux** 리눅스마스터 2급 ----------------------------------------------------- 25.01.03  
 ✅ **Oracle Cloud Infrastructure Certified Foundations Associate** ---------- 25.02.16  
 ✅ **Azure AZ-900** -------------------------------------------------------------- 25.03.01  
@@ -22,18 +24,20 @@
 ✅ **Oracle Fusion AI Agent Studio Foundations Associate**  ------------------25.07.31  
 ✅ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**  --25.11.26  
 ✅ **Oracle Cloud Infrastructure Certified Architect Professional**  ------------25.12.19  
+</details>
+  
+💎 **2년차 Certification Goals**  
+🔲 **빅데이터분석기사**  
+🔲 **Linux** 리눅스마스터 1급  
 🔲 **CCNA**  
-🔲 **Oracle Cloud Infrastructure Certified Architect Professional**  
+🔲 **Linux** RHCSA  
+🔲 **Linux** RHCE  
 🔲 **Google Cloud Platform Associate Cloud Engineer**  
 🔲 **Google Cloud Platform Professional Cloud Architect**  
 🔲 **AWS Solution Architect Professional**  
 🔲 **AWS Security-Specialty**  
 🔲 **Certified Kubernetes Administrator**  
-🔲 **Linux** 리눅스마스터 1급  
-🔲 **Linux** RHCSA  
-🔲 **Linux** RHCE  
-🔲 **빅데이터분석기사**  
-🔲 **정보보안기사**  
+
 
 ---
 <details>
