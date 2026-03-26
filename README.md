@@ -1,5 +1,8 @@
 클라우드를 즐겁게 배워가고 있습니다.
   
+2026.03 OpenStack Contribute !
+<img width="1280" height="491" alt="Image" src="https://github.com/user-attachments/assets/9d94000e-1bd2-42b8-991b-45d7df42164f" />
+
 <details>
 <summary><b>🐍 1년차 목표</b></summary>
 
@@ -42,14 +45,6 @@
 🔲 **AWS Security-Specialty**  
 🔲 **Certified Kubernetes Administrator**  
 
-
----
-<details>
-<summary><b>🤓학습 현황 & 🔺성장 계획</b></summary>
-<img src="https://github.com/user-attachments/assets/81d97f8b-53a2-4775-b8a3-060adc85c244" alt="학습 현황" width="1400"/>  
-<img src="https://github.com/user-attachments/assets/09f2500e-7ddb-41e2-95a2-f17fce12de9e" alt="성장 계획" width="600"/>
-<img src="https://github.com/user-attachments/assets/90cd6252-f1e3-425d-a327-e4d90f5b1aa6" alt="cncf" width="1400"/>
-</details>
 ---
 
 ### 💻 **개발 프로젝트**
