@@ -34,6 +34,7 @@
 </details>
   
 💎 **2년차 Certification Goals**  
+<p>✅ <b>kt cloud Certified Associate</b> ------------ 26.3.24</p>
 🔲 **빅데이터분석기사**  
 🔲 **Linux** 리눅스마스터 1급  
 🔲 **CCNA**  
