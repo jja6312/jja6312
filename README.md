@@ -35,17 +35,19 @@
   
 💎 **2년차 Certification Goals**  
 <p>✅ <b>kt cloud Certified Associate</b> ------------ 26.3.24</p>
-🔲 **빅데이터분석기사**  
-🔲 **Linux** 리눅스마스터 1급  
-🔲 **CCNA**  
-🔲 **Linux** RHCSA  
-🔲 **Linux** RHCE  
-🔲 **Google Cloud Platform Associate Cloud Engineer**  
-🔲 **Google Cloud Platform Professional Cloud Architect**  
-🔲 **AWS Solution Architect Professional**  
-🔲 **AWS Security-Specialty**  
-🔲 **Certified Kubernetes Administrator**  
+<p>🔲 <b>빅데이터분석기사</b></p>
+<p>🔲 <b>Linux</b> 리눅스마스터 1급</p>
+<p>🔲 <b>CCNA</b></p>
+<p>🔲 <b>Linux</b> RHCSA</p>
+<p>🔲 <b>Linux</b> RHCE</p>
+<p>🔲 <b>Google Cloud Platform Associate Cloud Engineer</b></p>
+<p>🔲 <b>Google Cloud Platform Professional Cloud Architect</b></p>
+<p>🔲 <b>AWS Solution Architect Professional</b></p>
+<p>🔲 <b>AWS Security-Specialty</b></p>
+<p>🔲 <b>Certified Kubernetes Administrator</b></p>
 
+💎 **~4년차 Certification Goals**  
+<p>🔲 컴퓨터시스템응용기술사<b</b></p>
 ---
 
 ### 💻 **개발 프로젝트**
