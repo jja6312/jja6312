@@ -1,7 +1,7 @@
 클라우드를 즐겁게 배워가고 있습니다.  
-🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠
+🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠  
 <b>🌠🌠🌠 오픈소스 기여 2회 🌠🌠🌠</b>
-🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠
+🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠  
   
 ⭐ 2026.05 oracle/oci-cli Contribute  
 <img width="600" height="200" alt="Image" src="https://github.com/user-attachments/assets/a14a11e7-b8bb-47a6-911c-9be8bd753aa6" />
