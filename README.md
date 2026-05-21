@@ -1,9 +1,9 @@
 클라우드를 즐겁게 배워가고 있습니다.
   
 ⭐ 2026.05 oracle/oci-cli Contribute
-<img width="1280" height="300" alt="Image" src="https://github.com/user-attachments/assets/a14a11e7-b8bb-47a6-911c-9be8bd753aa6" />
+<img width="900" height="300" alt="Image" src="https://github.com/user-attachments/assets/a14a11e7-b8bb-47a6-911c-9be8bd753aa6" />
 ⭐ 2026.03 OpenStack Contribute
-<img width="1280" height="300" alt="Image" src="https://github.com/user-attachments/assets/9d94000e-1bd2-42b8-991b-45d7df42164f" />
+<img width="900" height="300" alt="Image" src="https://github.com/user-attachments/assets/9d94000e-1bd2-42b8-991b-45d7df42164f" />
 
 <details>
 <summary><b>🐍 1년차(25.02.17~26.02.16) 목표</b></summary>
