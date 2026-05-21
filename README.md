@@ -4,7 +4,7 @@
 <img width="1280" height="491" alt="Image" src="https://github.com/user-attachments/assets/9d94000e-1bd2-42b8-991b-45d7df42164f" />
 
 <details>
-<summary><b>🐍 1년차 목표</b></summary>
+<summary><b>🐍 1년차(25.02.17~26.02.16) 목표</b></summary>
 
 <p>💎 2025 Engineering Goals</p>
 
@@ -33,7 +33,7 @@
 
 </details>
   
-💎 **2년차 Certification Goals**  
+💎 **2년차(26.02.17~26.02.16) Certification Goals**  
 <p>✅ <b>kt cloud Certified Associate</b> ------------ 26.3.24</p>
 <p>🔲 <b>빅데이터분석기사</b></p>
 <p>🔲 <b>Linux</b> 리눅스마스터 1급</p>
