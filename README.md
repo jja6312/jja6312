@@ -1,5 +1,7 @@
 클라우드를 즐겁게 배워가고 있습니다.
   
+⭐ 2026.05 Oracle, OCI CLI Contribute
+<img width="1280" height="478" alt="Image" src="https://github.com/user-attachments/assets/a14a11e7-b8bb-47a6-911c-9be8bd753aa6" />
 ⭐ 2026.03 OpenStack Contribute
 <img width="1280" height="491" alt="Image" src="https://github.com/user-attachments/assets/9d94000e-1bd2-42b8-991b-45d7df42164f" />
 
